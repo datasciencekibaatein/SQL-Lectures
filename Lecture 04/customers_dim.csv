@@ -1,0 +1,9 @@
+customer_id,customer_name,city,state,membership
+C001,Aarav Sharma,Delhi,Delhi,Gold
+C002,Priya Singh,Mumbai,Maharashtra,Silver
+C003,Rahul Verma,Jaipur,Rajasthan,Platinum
+C004,Neha Gupta,Lucknow,UP,Gold
+C005,Vikram Patel,Ahmedabad,Gujarat,Silver
+C006,Ananya Das,Kolkata,West Bengal,Gold
+C007,Rohan Mehta,Pune,Maharashtra,Silver
+C008,Sneha Iyer,Chennai,Tamil Nadu,Platinum
